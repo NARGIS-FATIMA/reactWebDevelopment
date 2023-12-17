@@ -1,13 +1,13 @@
-
-
-const home = () => {
+import React from 'react'
+import Header from './header/Header'
+import Footer from './Footer/Footer'
+const Home = () => {
   return (
-    <div>
-      <p>
-        This is Nargis Fatima
-      </p>
-    </div>
+      <>
+      <Header />
+      <Footer />
+      </>
   )
 }
 
-export default home
+export default Home
