@@ -1,0 +1,16 @@
+.cont {
+  display: flex;
+  justify-content: flex-start;
+  background-color: blue;
+  color: white;
+}
+.cont li {
+  margin: 20px;
+  color: white;
+  background-color: white;
+  text-decoration: white;
+}
+
+Link {
+  color: white;
+}
